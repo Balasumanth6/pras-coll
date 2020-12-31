@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import map from '../map.jpg'
 
 class ContactUs extends Component {
 	render() {
@@ -32,7 +33,7 @@ class ContactUs extends Component {
 						<h5 className="mt-3"> Map of Our Location </h5>
 						<div style={{fontSize: 14, fontStyle: 'italic', color: 'gray'}}> Click on the map for directions! </div>
 						<br />
-                        <a href='https://goo.gl/maps/bRcGEYasuDYKXL3B9' target="_blank"><img src="./map.jpg" style={{width: '100%'}} className='mt-2'></img></a>
+                        <a href='https://goo.gl/maps/bRcGEYasuDYKXL3B9' target="_blank"><img src={map} style={{width: '100%'}} className='mt-2'></img></a>
 					</div>
 
 				</div>
