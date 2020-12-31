@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pras-coll/static/css/main.5039d7d4.chunk.css",
-    "main.js": "/pras-coll/static/js/main.fe1355b2.chunk.js",
-    "main.js.map": "/pras-coll/static/js/main.fe1355b2.chunk.js.map",
+    "main.js": "/pras-coll/static/js/main.93293e6a.chunk.js",
+    "main.js.map": "/pras-coll/static/js/main.93293e6a.chunk.js.map",
     "runtime-main.js": "/pras-coll/static/js/runtime-main.b81f41a9.js",
     "runtime-main.js.map": "/pras-coll/static/js/runtime-main.b81f41a9.js.map",
     "static/css/2.7e58066f.chunk.css": "/pras-coll/static/css/2.7e58066f.chunk.css",
@@ -16,8 +16,9 @@
     "static/js/2.455f5ad1.chunk.js.LICENSE.txt": "/pras-coll/static/js/2.455f5ad1.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/pras-coll/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/logo.6ce24c58.svg": "/pras-coll/static/media/logo.6ce24c58.svg",
+    "static/media/map.fe41249b.jpg": "/pras-coll/static/media/map.fe41249b.jpg",
     "static/media/pic1.23e50a21.jpg": "/pras-coll/static/media/pic1.23e50a21.jpg",
-    "static/media/pic2.0c48aece.jpg": "/pras-coll/static/media/pic2.0c48aece.jpg",
+    "static/media/pic2.0dff3676.jpg": "/pras-coll/static/media/pic2.0dff3676.jpg",
     "static/media/pic3.c9bbf039.jpg": "/pras-coll/static/media/pic3.c9bbf039.jpg"
   },
   "entrypoints": [
@@ -25,6 +26,6 @@
     "static/css/2.7e58066f.chunk.css",
     "static/js/2.455f5ad1.chunk.js",
     "static/css/main.5039d7d4.chunk.css",
-    "static/js/main.fe1355b2.chunk.js"
+    "static/js/main.93293e6a.chunk.js"
   ]
 }
