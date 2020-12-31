@@ -3,7 +3,7 @@ import Header from './HeaderComponent.js';
 import Footer from './FooterComponent.js';
 import Home from './HomeComponent.js';
 import ContactUs from './ContactComponent.js';
-import {Switch, Route, withRouter} from 'react-router-dom';
+import {Switch, Route, withRouter, Redirect} from 'react-router-dom';
 
 class Main extends Component {
 	render() {
@@ -12,7 +12,8 @@ class Main extends Component {
 				<Header />
 				<Switch>
 					<Route path='/home' component={() => <Home />} />
-					<Route path='/contactus' component={() => <ContactUs />} />
+					<Route exact path='/contactus' component={() => <ContactUs />} />
+					<Redirect to='/home' />
 				</Switch>
 				<Footer />
 			</div>
