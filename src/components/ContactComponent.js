@@ -17,12 +17,12 @@ class ContactUs extends Component {
 						<div className='d-none d-xl-block'><br /></div>
                         <h5>Our Address</h5>
                         <address style={{fontSize: 15}} className='mt-4'>
-                        Plot No. 119, New&nbsp;Vasavi&nbsp;Nagar,<br />
-                        Karkhana, Secunderabad,<br />
-                        500015<br />
-                        <br />
-                        <a href="tel:9246532770"><i className="fa fa-phone"></i> : +91 9246532770 <br /></a>
-                        <a href="tel:8019032770"><i className="fa fa-phone"></i> : +91 8019032770 <br /></a>
+	                        Plot No. 119, New&nbsp;Vasavi&nbsp;Nagar,<br />
+	                        Karkhana, Secunderabad,<br />
+	                        500015<br />
+	                        <br />	
+	                        <a href="tel:9246532770"><i className="fa fa-phone"></i> : +91 9246532770 <br /></a>
+	                        <a href="tel:8019032770"><i className="fa fa-phone"></i> : +91 8019032770 <br /></a>
                         </address>
                     </div>
 
